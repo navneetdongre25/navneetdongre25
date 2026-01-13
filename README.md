@@ -38,9 +38,12 @@ Unemployment Analysis: Using Python to visualize and analyze economic trends.
 Customer Behaviour
 
 
-📫 How to Reach Me
+<h3>📫 How to Reach Me</h3>
 
 Email: dongre.navneet26@gmail.com 
+
 LinkedIn: linkedin.com/in/navneet-dongre/ 
+
 Phone: +91-8982396764 
+
 Location: Powai, Mumbai
