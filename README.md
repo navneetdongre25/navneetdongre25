@@ -3,12 +3,14 @@ I am a motivated and results-driven Data Analyst with over 3 years of experience
 With hands-on experience at organizations like the GirlScript Foundation, I have honed my abilities in web scraping, SQL data extraction, and analyzing large-scale datasets—including a project involving 1,00,000+ educational records that boosted engagement by 15% and retention by 20%. My passion lies in transforming raw data into actionable insights to drive strategic business outcomes.
 
 🔭 My Interests
+
 Machine Learning & AI: Building models that solve real-world problems, such as SMS Spam Detection and Titanic Classification.
 Data Visualization: Creating impactful visual stories and automated dashboards using Tableau and Power BI.
 Software Development: Applying C++ and OOP principles to build modular and maintainable code.
 Predictive Analytics: Leveraging regression analysis to optimize workflows and enhance data quality.
 
 🛠 Skills
+
 Programming Languages: Python (Pandas, NumPy), SQL, Core Java, C++, C.
 Data Visualization/BI: Tableau, Power BI, Excel, Matplotlib.
 Data Science & ML: Statistical Analysis, Regression Analysis, Scikit-Learn.
