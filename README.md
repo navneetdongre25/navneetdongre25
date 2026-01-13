@@ -1,28 +1,36 @@
+<h3>Hi, there! It's Navneet! 👋</h3>
+
+
+
+<h1>🚀 About Me</h1>
+
+
 👋 Hi, I'm ✨ Navneet Dongre ✨
+
 I am a motivated and results-driven Data Analyst with over 3 years of experience in data analysis, statistical modeling, and machine learning. I recently completed my Master of Technology from R.G.P.V. Bhopal, achieving an 89.66% score.
 With hands-on experience at organizations like the GirlScript Foundation, I have honed my abilities in web scraping, SQL data extraction, and analyzing large-scale datasets—including a project involving 1,00,000+ educational records that boosted engagement by 15% and retention by 20%. My passion lies in transforming raw data into actionable insights to drive strategic business outcomes.
 
-🔭 My Interests
+<h1>🔭 My Interests</h1>
 
 Machine Learning & AI: Building models that solve real-world problems, such as SMS Spam Detection and Titanic Classification.
 Data Visualization: Creating impactful visual stories and automated dashboards using Tableau and Power BI.
 Software Development: Applying C++ and OOP principles to build modular and maintainable code.
 Predictive Analytics: Leveraging regression analysis to optimize workflows and enhance data quality.
 
-🛠 Skills
+<h1>🛠 Skills</h1>
 
 Programming Languages: Python (Pandas, NumPy), SQL, Core Java, C++, C.
 Data Visualization/BI: Tableau, Power BI, Excel, Matplotlib.
 Data Science & ML: Statistical Analysis, Regression Analysis, Scikit-Learn.
 Tools & Frameworks: Git/GitHub, Jupyter Notebook, Postman (APIs), React js.
 
-📜 Certifications
+<h1>📜 Certifications</h1>
 
 Masters Program - Data Science: Simplilearn Certified, 2024.
 Career Essentials in Data Analysis: Microsoft and LinkedIn, 2024.
 Data Structures and Algorithms: InternShala.
 
-📊 Featured Projects
+<h1>📊 Featured Projects</h1>
 
 US Airlines & Hospital Analysis: Comprehensive data exploration and insight generation.
 Weather Forecasting: Time-series analysis and predictive modeling.
