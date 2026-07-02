@@ -7,7 +7,7 @@
 
 👋 Hi, I'm ✨ Navneet Dongre ✨
 
-I am a motivated and results-driven Data Analyst with over 3 years of experience in data analysis, statistical modeling, and machine learning. I recently completed my Master of Technology from R.G.P.V. Bhopal, achieving an 89.66% score.
+I am a motivated and results-driven Data Analyst with over 2 years of experience in data analysis, statistical modeling, and machine learning. I recently completed my Master of Technology from R.G.P.V. Bhopal, achieving an 89.66% score.
 With hands-on experience at organizations like the GirlScript Foundation, I have honed my abilities in web scraping, SQL data extraction, and analyzing large-scale datasets—including a project involving 1,00,000+ educational records that boosted engagement by 15% and retention by 20%. My passion lies in transforming raw data into actionable insights to drive strategic business outcomes.
 
 <h1>🔭 My Interests</h1>
